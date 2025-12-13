@@ -1,1 +1,13 @@
-Sabyasachi dash
+Sabyasachi Dash
+
+div Function
+.............
+
+def div(a,b):
+ print(a / b)
+
+
+div(10,5)
+
+//op : 2
+
