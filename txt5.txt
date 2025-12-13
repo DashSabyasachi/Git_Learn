@@ -1,1 +1,8 @@
-null
+multiply function
+.................
+
+def multiply(a, b):
+	print( a* b )
+
+multiply(5,4)
+//20
