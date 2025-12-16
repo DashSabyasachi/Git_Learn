@@ -1,0 +1,9 @@
+git command for push a folder in GIT
+........................................
+git init
+git ststus
+git add .
+git commit -m "version name"
+git branch -m btranchname
+git remote origin repo_URL
+git push -u origin branchname
