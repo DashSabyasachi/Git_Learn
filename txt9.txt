@@ -3,4 +3,8 @@ def Average_price(Total_price , Total_products):
 
 
 Average_price(100,4)
+
+
+
+
 	
