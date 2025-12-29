@@ -1,7 +1,0 @@
-#Name printer prog.
-def Name_printer(name):
-    for i in range(10):
-        print(i,name)
-
-
-Name_printer("Sabyasachi")
