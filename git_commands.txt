@@ -90,6 +90,12 @@ git clone link
 git cherry-pick gitHash
 git push origin main
 
+git log
+git log --oneline
+
+git diff
+
+
 
 
 
