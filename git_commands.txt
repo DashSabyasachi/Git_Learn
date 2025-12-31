@@ -74,6 +74,13 @@ git restore filename.txt --->undo the change and restore the last commited versi
 
  
 
+git status
+git add tax.txt
+git commit -m "version name"
+git branch -m main
+git remote origin repolink
+git push -u origin main
+
 
 
 
