@@ -87,6 +87,8 @@ git push origin main
 
 git clone link
 
+git cherry-pick gitHash
+git push origin main
 
 
 
